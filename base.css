@@ -117,12 +117,12 @@ button{
     border: none;
     background-image: linear-gradient( to right, hsl(0, 93%, 68%), hsl(0, 89%, 70%));
     border-radius: 2rem;
-    color:  hsl(0, 61%, 48%);
+    color: white;
     box-shadow: 0px 3px 3px hsl(0, 93%, 68%);
     transition: box-shadow 0.5s;
     position: absolute;
     right: 600px;
-    font-size: 60px;
+    font-size: 40px;
 }
 @media screen and (max-width:1000px){
     form{
